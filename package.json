@@ -19,13 +19,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Evillgranny/react-boilerplate.git"
+    "url": "git+https://github.com/Evillgranny/React-Store-Cart.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Evillgranny/react-boilerplate/issues"
+    "url": "https://github.com/Evillgranny/React-Store-Cart/issues"
   },
-  "homepage": "https://github.com/Evillgranny/react-boilerplate#readme",
+  "homepage": "https://github.com/Evillgranny/React-Store-Cart#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
